@@ -16,7 +16,7 @@ This figure illustrates the initial step of our analysis, where Fresnel waves ar
 
 ### Resulting Features for Each Direction
 
-![Resulting Features for Each Direction](figures/fig2.png)
+<img src="figures/fig2.png" alt="Resulting Features for Each Direction" width="400">
 
 *Figure 2: The resulting features for each calculated direction. Each colorscale represents a different parameter, and the arrow size represents how far the wave propagates.*
 
