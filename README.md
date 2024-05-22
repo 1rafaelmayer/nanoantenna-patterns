@@ -8,7 +8,7 @@ In this project, we aim to facilitate the analysis of near-field features in nan
 
 ### Fresnel Waves and Field Profile
 
-![Fresnel Waves and Field Profile](nanoantenna-patterns/figures/fig1.png)
+![Fresnel Waves and Field Profile](figures/fig1.png)
 
 *Figure 1: (Left) Fresnel waves launched by the nano-antenna. The black line indicates the path where the field was extracted. (Right) The field profile and the fit curve used to extract the antenna features along this direction.*
 
@@ -16,7 +16,7 @@ This figure illustrates the initial step of our analysis, where Fresnel waves ar
 
 ### Resulting Features for Each Direction
 
-![Resulting Features for Each Direction](nanoantenna-patterns/figures/fig2.png)
+![Resulting Features for Each Direction](figures/fig2.png)
 
 *Figure 2: The resulting features for each calculated direction. Each colorscale represents a different parameter, and the arrow size represents how far the wave propagates.*
 
@@ -24,7 +24,7 @@ This figure shows the extracted features for each calculated direction. Differen
 
 ### Fraunhofer Waves as Polar Plots
 
-![Fraunhofer Waves as Polar Plots](nanoantenna-patterns/figures/fig3.png)
+![Fraunhofer Waves as Polar Plots](figures/fig3.png)
 
 *Figure 3: Another case (Fraunhofer) where the waves are circular and the features can be expressed as polar plots.*
 
